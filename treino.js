@@ -7,7 +7,6 @@
 
 
 
-
 let nota1 = 3
 let nota2 = 6
 let nota3 = 7
