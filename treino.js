@@ -1,3 +1,4 @@
+
 //criando um condigo que calucla a média do aluno
 
 
@@ -21,6 +22,6 @@ if(media<=5){
 
 
  function soma(a,b){
-    return a + b;
+    return a + b
 }
 console.log(soma(4,7))
